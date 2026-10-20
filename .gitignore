@@ -1,0 +1,21 @@
+# Generated reports and validation output
+*.csv
+*.json
+*.xlsx
+*.log
+*.done
+testResults/
+coverage/
+
+# Local authentication and credentials
+.azure/
+.env
+.env.*
+*.pfx
+*.pem
+*.key
+
+# Local editor and agent state
+.vscode/
+.memory-bank/
+*.tmp
